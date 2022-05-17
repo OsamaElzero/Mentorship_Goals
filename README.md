@@ -105,7 +105,6 @@ Mentorship Goals Needed To Finish
 - [ ] Mohamed Ahmed Shawky
 - [ ] Mohamed Elsayed
 - [ ] Anas Qasem
-- [ ] Abderrahman Mounasser
 - [ ] Gamal Omar
 - [ ] Shaimaa Ramadan
 - [ ] Ahmed Rabie
