@@ -1,4 +1,4 @@
-# Mentorship Goals
+# Mentorship Goals For My Team
 
 Mentorship Goals Needed To Finish
 
@@ -6,7 +6,7 @@ Mentorship Goals Needed To Finish
 
 - [ ] Flex
 - [ ] Grid
-- [ ] Tranform
+- [ ] Transform
 - [ ] Animation
 - [ ] Media Queries
 
@@ -40,10 +40,10 @@ Mentorship Goals Needed To Finish
 
 - [ ] Your Website
 - [ ] Github Profile
-- [ ] Linkedin Profile => [Learn Linked In](https://www.youtube.com/watch?v=7JysIkTyccs)
+- [ ] Linkedin Profile => [LinkedIn Useful Video](https://www.youtube.com/watch?v=7JysIkTyccs)
 - [ ] Resume
 
-## Frameworks
+## Before Frameworks
 
 - [ ] Virtual DOM
 - [ ] Modules
