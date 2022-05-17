@@ -28,6 +28,11 @@ Mentorship Goals Needed To Finish
 - [ ] Leetcode 10 Easy Problems
 - [ ] Front-End Mentors 15 Challenges
 
+## Skills
+
+- [ ] Git And Github
+- [ ] Terminal And Commands
+
 ## Designs
 
 - [ ] Template 1 [HTML + CSS]
