@@ -111,6 +111,5 @@ Mentorship Goals Needed To Finish
 - [ ] Mohamed Elsayed
 - [ ] Gamal Omar
 - [ ] Shaimaa Ramadan
-- [ ] Ahmed Rabie
 - [ ] Andrew Raafat
 - [ ] Mohamed Salah
