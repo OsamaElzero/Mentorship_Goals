@@ -14,16 +14,19 @@ Mentorship Goals Needed To Finish
 
 - [ ] DOM
 - [ ] Higher Order Functions
+- [ ] Destructuring
 - [ ] Local Storage
 - [ ] Object Oriented Programming
 - [ ] JSON
 - [ ] AJAX
 - [ ] Promises
 
-## Problem Solving
+## Problem Solving And Challenges
 
 - [ ] Codewars 300 Very Easy And Easy Problems
 - [ ] Codewars 50 Medium Problems
+- [ ] Leetcode 10 Easy Problems
+- [ ] Front-End Mentors 15 Challenges
 
 ## Designs
 
@@ -31,12 +34,21 @@ Mentorship Goals Needed To Finish
 - [ ] Template 2 [HTML + CSS]
 - [ ] Template 3 [HTML + CSS]
 - [ ] Template 4 [HTML + CSS + JS]
+- [ ] Dashboard [HTML + CSS + JS]
 
 ## Portofolio
 
 - [ ] Your Website
 - [ ] Github Profile
+- [ ] Linkedin Profile => [Learn Linked In](https://www.youtube.com/watch?v=7JysIkTyccs)
 - [ ] Resume
+
+## Frameworks
+
+- [ ] Virtual DOM
+- [ ] Modules
+- [ ] Reactivity
+- [ ] Design Patterns
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 
