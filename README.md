@@ -80,7 +80,9 @@ Mentorship Goals Needed To Finish
 
 ### Confirmed Joining
 
+- [ ] Ahmed Darwish
 - [ ] Ayman Ali
+- [ ] Ayman Taha
 - [ ] Hagar Khalid
 - [ ] Hassan Ahmed Mustafa
 - [ ] Heba Gamal
@@ -91,13 +93,13 @@ Mentorship Goals Needed To Finish
 - [ ] Mohamed Mustafa Abugad
 - [ ] Naglaa Saber
 - [ ] Nour Atef
+- [ ] Noura Nabil
 - [ ] Radwa Omar
 - [ ] Remon Lotfy
 - [ ] Sami Albakour
 
 ### Still Not Confirmed Joining
 
-- [ ] Ayman Taha
 - [ ] Mahmoud Ali
 - [ ] Mohamed Ahmed Shawky
 - [ ] Mohamed Elsayed
@@ -110,8 +112,6 @@ Mentorship Goals Needed To Finish
 - [ ] Andrew Raafat
 - [ ] Ahmed Ezz
 - [ ] Elsayed Gamal
-- [ ] Noura Nabil
 - [ ] Nahla Khaireldeen
 - [ ] Mohamed Salah
-- [ ] Ahmed Darwish
 - [ ] Amr Hendawy
