@@ -80,6 +80,7 @@ Mentorship Goals Needed To Finish
 
 ### Confirmed Joining
 
+- [ ] Heba Gamal
 - [ ] Houssam Sabbabi
 - [ ] Mohamed Amr Barakat
 - [ ] Mohamed Mustafa Abugad
@@ -108,7 +109,6 @@ Mentorship Goals Needed To Finish
 - [ ] Hassan Ahmed
 - [ ] Elsayed Gamal
 - [ ] Noura Nabil
-- [ ] Heba Gamal
 - [ ] Nahla Khaireldeen
 - [ ] Mohamed Salah
 - [ ] Ahmed Darwish
