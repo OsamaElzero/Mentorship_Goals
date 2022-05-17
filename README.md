@@ -82,6 +82,7 @@ Mentorship Goals Needed To Finish
 
 - [ ] Houssam Sabbabi
 - [ ] Mohamed Amr Barakat
+- [ ] Mohamed Mustafa Abugad
 - [ ] Nour Atef
 - [ ] Radwa Omar
 - [ ] Sami Albakour
@@ -101,7 +102,6 @@ Mentorship Goals Needed To Finish
 - [ ] Salwa Sayed Younes
 - [ ] Ahmed Rabie
 - [ ] Andrew Raafat
-- [ ] Mohamed Mustafa
 - [ ] Ahmed Ezz
 - [ ] Lobna Nasser
 - [ ] Ayman Ali
