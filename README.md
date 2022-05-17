@@ -80,7 +80,11 @@ Mentorship Goals Needed To Finish
 
 ### Confirmed Joining
 
+- [ ] Houssam Sabbabi
 - [ ] Mohamed Amr Barakat
+- [ ] Nour Atef
+- [ ] Radwa Omar
+- [ ] Sami Albakour
 
 ### Still Not Confirmed Joining
 
@@ -97,9 +101,7 @@ Mentorship Goals Needed To Finish
 - [ ] Salwa Sayed Younes
 - [ ] Ahmed Rabie
 - [ ] Andrew Raafat
-
 - [ ] Mohamed Mustafa
-- [ ] Sami Albakour
 - [ ] Ahmed Ezz
 - [ ] Lobna Nasser
 - [ ] Ayman Ali
@@ -108,9 +110,7 @@ Mentorship Goals Needed To Finish
 - [ ] Noura Nabil
 - [ ] Heba Gamal
 - [ ] Nahla Khaireldeen
-- [ ] Radwa Omar
 - [ ] Mohamed Salah
-- [ ] Nour Atef
 - [ ] Ahmed Darwish
 - [ ] Hagar Khalid
 - [ ] Amr Hendawy
