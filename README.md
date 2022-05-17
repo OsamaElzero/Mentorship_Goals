@@ -55,6 +55,17 @@ Mentorship Goals Needed To Finish
 - [ ] Reactivity
 - [ ] Design Patterns
 
+## Save Time Skills
+
+- [ ] SASS
+- [ ] Pugjs
+- [ ] One Of The Task Runners
+
+## Advanced Skills
+
+- [ ] Unit Testing
+- [ ] Debugging
+
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 
 ## Peoples Checklist
