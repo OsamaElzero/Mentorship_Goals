@@ -5,21 +5,30 @@ Mentorship Goals Needed To Finish
 ## CSS
 
 - [ ] Flex
-- [ ] Grid
+- [ ] CSS Grid
 - [ ] Transform
 - [ ] Animation
 - [ ] Media Queries
+- [ ] Grid System
+- [ ] Create Your Framework || UI Kit
 
 ## JavaScript
 
 - [ ] DOM
 - [ ] Higher Order Functions
 - [ ] Destructuring
+- [ ] Scope
 - [ ] Local Storage
 - [ ] Object Oriented Programming
+- [ ] Prototype
 - [ ] JSON
 - [ ] AJAX
 - [ ] Promises
+
+## Tools 
+
+- [ ] Lighthouse
+- [ ] Google Developer Tools
 
 ## Problem Solving And Challenges
 
@@ -54,6 +63,7 @@ Mentorship Goals Needed To Finish
 - [ ] Modules
 - [ ] Reactivity
 - [ ] Design Patterns
+- [ ] Package Managers
 
 ## Save Time Skills
 
@@ -63,6 +73,7 @@ Mentorship Goals Needed To Finish
 
 ## Advanced Skills
 
+- [ ] BEM
 - [ ] Unit Testing
 - [ ] Debugging
 
