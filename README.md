@@ -29,6 +29,8 @@ Mentorship Goals Needed To Finish
 
 - [ ] Lighthouse
 - [ ] Google Developer Tools
+- [ ] Git And Github
+- [ ] Terminal And Commands
 
 ## Problem Solving And Challenges
 
@@ -36,11 +38,6 @@ Mentorship Goals Needed To Finish
 - [ ] Codewars 50 Medium Problems
 - [ ] Leetcode 10 Easy Problems
 - [ ] Front-End Mentors 15 Challenges
-
-## Skills
-
-- [ ] Git And Github
-- [ ] Terminal And Commands
 
 ## Designs
 
