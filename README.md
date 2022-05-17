@@ -82,6 +82,8 @@ Mentorship Goals Needed To Finish
 
 - [ ] Ahmed Ezz
 - [ ] Ahmed Darwish
+- [ ] Amr Hendawy
+- [ ] Anas Qasem
 - [ ] Ayman Ali
 - [ ] Ayman Taha
 - [ ] Elsayed Gamal
@@ -91,6 +93,8 @@ Mentorship Goals Needed To Finish
 - [ ] Houssam Sabbabi
 - [ ] Karam Ayed
 - [ ] Lobna Nasser
+- [ ] Mahmoud Ali
+- [ ] Mohamed Ahmed Shawky
 - [ ] Mohamed Amr Barakat
 - [ ] Mohamed Mustafa Abugad
 - [ ] Naglaa Saber
@@ -104,13 +108,9 @@ Mentorship Goals Needed To Finish
 
 ### Still Not Confirmed Joining
 
-- [ ] Mahmoud Ali
-- [ ] Mohamed Ahmed Shawky
 - [ ] Mohamed Elsayed
-- [ ] Anas Qasem
 - [ ] Gamal Omar
 - [ ] Shaimaa Ramadan
 - [ ] Ahmed Rabie
 - [ ] Andrew Raafat
 - [ ] Mohamed Salah
-- [ ] Amr Hendawy
