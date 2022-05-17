@@ -78,6 +78,12 @@ Mentorship Goals Needed To Finish
 
 ## Peoples Checklist
 
+### Confirmed Joining
+
+- [ ] Mohamed Amr Barakat
+
+### Still Not Confirmed Joining
+
 - [ ] Ayman Taha
 - [ ] Naglaa Saber
 - [ ] Mahmoud Ali
@@ -91,7 +97,7 @@ Mentorship Goals Needed To Finish
 - [ ] Salwa Sayed Younes
 - [ ] Ahmed Rabie
 - [ ] Andrew Raafat
-- [ ] Mohamed Amr Barakat
+
 - [ ] Mohamed Mustafa
 - [ ] Sami Albakour
 - [ ] Ahmed Ezz
