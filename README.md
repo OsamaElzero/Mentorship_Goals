@@ -80,9 +80,12 @@ Mentorship Goals Needed To Finish
 
 ### Confirmed Joining
 
+- [ ] Ayman Ali
 - [ ] Hagar Khalid
+- [ ] Hassan Ahmed Mustafa
 - [ ] Heba Gamal
 - [ ] Houssam Sabbabi
+- [ ] Karam Ayed
 - [ ] Lobna Nasser
 - [ ] Mohamed Amr Barakat
 - [ ] Mohamed Mustafa Abugad
@@ -106,8 +109,6 @@ Mentorship Goals Needed To Finish
 - [ ] Ahmed Rabie
 - [ ] Andrew Raafat
 - [ ] Ahmed Ezz
-- [ ] Ayman Ali
-- [ ] Hassan Ahmed
 - [ ] Elsayed Gamal
 - [ ] Noura Nabil
 - [ ] Nahla Khaireldeen
