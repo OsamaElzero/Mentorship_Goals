@@ -89,6 +89,7 @@ Mentorship Goals Needed To Finish
 - [ ] Naglaa Saber
 - [ ] Nour Atef
 - [ ] Radwa Omar
+- [ ] Remon Lotfy
 - [ ] Sami Albakour
 
 ### Still Not Confirmed Joining
@@ -98,7 +99,6 @@ Mentorship Goals Needed To Finish
 - [ ] Mohamed Ahmed Shawky
 - [ ] Mohamed Elsayed
 - [ ] Anas Qasem
-- [ ] Remon Lotfy
 - [ ] Abderrahman Mounasser
 - [ ] Gamal Omar
 - [ ] Shaimaa Ramadan
