@@ -106,10 +106,10 @@ Mentorship Goals Needed To Finish
 - [ ] Remon Lotfy
 - [ ] Salwa Sayed Younes
 - [ ] Sami Albakour
+- [ ] Shaimaa Ramadan
 
 ### Still Not Confirmed Joining
 
 - [ ] Mohamed Elsayed
 - [ ] Gamal Omar
-- [ ] Shaimaa Ramadan
 - [ ] Andrew Raafat
