@@ -97,6 +97,7 @@ Mentorship Goals Needed To Finish
 - [ ] Mohamed Ahmed Shawky
 - [ ] Mohamed Amr Barakat
 - [ ] Mohamed Mustafa Abugad
+- [ ] Mohamed Salah
 - [ ] Naglaa Saber
 - [ ] Nahla Khaireldeen
 - [ ] Nour Atef
@@ -112,4 +113,3 @@ Mentorship Goals Needed To Finish
 - [ ] Gamal Omar
 - [ ] Shaimaa Ramadan
 - [ ] Andrew Raafat
-- [ ] Mohamed Salah
