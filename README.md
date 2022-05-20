@@ -34,10 +34,28 @@ Mentorship Goals Needed To Finish
 
 ## Problem Solving And Challenges
 
-- [ ] Codewars 300 Very Easy And Easy Problems
-- [ ] Codewars 50 Medium Problems
-- [ ] Leetcode 10 Easy Problems
-- [ ] Front-End Mentors 15 Challenges
+### Codewars 300 Very Easy And Easy Problems
+
+- [ ] 50
+- [ ] 50
+- [ ] 50
+- [ ] 50
+- [ ] 50
+- [ ] 50
+
+### Codewars 50 Medium Problems
+
+- [ ] 10
+- [ ] 10
+- [ ] 10
+- [ ] 10
+- [ ] 10
+
+### Front-End Mentors 15 Challenges
+
+- [ ] 5
+- [ ] 5
+- [ ] 5
 
 ## Designs
 
