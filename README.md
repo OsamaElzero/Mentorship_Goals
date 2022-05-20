@@ -78,8 +78,6 @@ Mentorship Goals Needed To Finish
 
 ## Peoples Checklist
 
-### Confirmed Joining
-
 - [ ] Ahmed Ezz
 - [ ] Ahmed Darwish
 - [ ] Amr Hendawy
@@ -107,9 +105,3 @@ Mentorship Goals Needed To Finish
 - [ ] Salwa Sayed Younes
 - [ ] Sami Albakour
 - [ ] Shaimaa Ramadan
-
-### Still Not Confirmed Joining
-
-- [ ] Mohamed Elsayed
-- [ ] Gamal Omar
-- [ ] Andrew Raafat
