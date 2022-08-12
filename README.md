@@ -98,17 +98,17 @@ Mentorship Goals Needed To Finish
 
 - [ ] Ahmed Ezz
 - [ ] Ahmed Darwish
-- [ ] Amr Hendawy
-- [ ] Anas Qasem
-- [ ] Ayman Ali
+- [x] Amr Hendawy
+- [x] Anas Qasem
+- [x] Ayman Ali
 - [ ] Ayman Taha
 - [ ] Elsayed Gamal
 - [ ] Hagar Khalid
 - [ ] Hassan Ahmed Mustafa
 - [ ] Heba Gamal
-- [ ] Houssam Sabbabi
-- [ ] Karam Ayed
-- [ ] Lobna Nasser
+- [x] Houssam Sabbabi
+- [x] Karam Ayed
+- [x] Lobna Nasser
 - [ ] Mahmoud Ali
 - [ ] Mohamed Ahmed Shawky
 - [ ] Mohamed Amr Barakat
